@@ -15,8 +15,8 @@ This project is a simple Python script that converts Markdown files (`.md`) into
 
 ## Clone the repository
 
-git clone https://github.com/yourusername/markdown-to-html-converter.git
-cd markdown-to-html-converter
+- git clone https://github.com/yourusername/markdown-to-html-converter.git
+- cd markdown-to-html-converter
 
 ## Prerequisites
 
