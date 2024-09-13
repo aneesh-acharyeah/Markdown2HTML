@@ -13,11 +13,6 @@ This project is a simple Python script that converts Markdown files (`.md`) into
 - Handles errors for invalid files, empty files, and encoding issues.
 - Prevents accidental overwriting of existing HTML files.
 
-## Clone the repository
-
-- git clone https://github.com/yourusername/markdown-to-html-converter.git
-- cd markdown-to-html-converter
-
 ## Prerequisites
 
 Before you can use this project, ensure that you have Python installed. If not, download it from [Python.org](https://www.python.org/downloads/).
