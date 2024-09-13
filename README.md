@@ -25,3 +25,9 @@ You can install the package using `pip`:
 
 ```bash
 pip install markdown
+
+
+## Clone the repository
+
+git clone https://github.com/yourusername/markdown-to-html-converter.git
+cd markdown-to-html-converter
